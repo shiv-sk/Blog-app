@@ -3,7 +3,7 @@ const app = express();
 const corsoption = {
     origin:"http://localhost:5173",
     https:"https://blog-app-r95h.vercel.app"
-    sameOrigin:false
+    
 }
 app.use(express.json());
 app.use(express.urlencoded({extended:true}));
