@@ -2,7 +2,7 @@ const express = require("express");
 const app = express();
 const corsoption = {
     origin:["http://localhost:5173",
-    "https://blog-app-r95h.vercel.app/",
+    "https://blog-app-r95h-pc4l194tj-shivanand-yks-projects.vercel.app",
            
     ]
 }
