@@ -1,5 +1,5 @@
 import axios from "axios";
-export const baseurl = "https://blog-app-api-seven.vercel.app/api/v1"
+export const baseurl = "https://blog-app-api-shivanand-yks-projects.vercel.app/api/v1"
 export const postReq =async (url , body)=>{
     try {
         const response = await axios({
